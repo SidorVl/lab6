@@ -1,0 +1,15 @@
+C:\Users\Legion\Desktop\oop_lab6-master\MyClass\bin\Debug\net6.0\MyClass.exe
+C:\Users\Legion\Desktop\oop_lab6-master\MyClass\bin\Debug\net6.0\MyClass.deps.json
+C:\Users\Legion\Desktop\oop_lab6-master\MyClass\bin\Debug\net6.0\MyClass.runtimeconfig.json
+C:\Users\Legion\Desktop\oop_lab6-master\MyClass\bin\Debug\net6.0\MyClass.dll
+C:\Users\Legion\Desktop\oop_lab6-master\MyClass\bin\Debug\net6.0\MyClass.pdb
+C:\Users\Legion\Desktop\oop_lab6-master\MyClass\obj\Debug\net6.0\MyClass.csproj.AssemblyReference.cache
+C:\Users\Legion\Desktop\oop_lab6-master\MyClass\obj\Debug\net6.0\MyClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Desktop\oop_lab6-master\MyClass\obj\Debug\net6.0\MyClass.AssemblyInfoInputs.cache
+C:\Users\Legion\Desktop\oop_lab6-master\MyClass\obj\Debug\net6.0\MyClass.AssemblyInfo.cs
+C:\Users\Legion\Desktop\oop_lab6-master\MyClass\obj\Debug\net6.0\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\oop_lab6-master\MyClass\obj\Debug\net6.0\MyClass.dll
+C:\Users\Legion\Desktop\oop_lab6-master\MyClass\obj\Debug\net6.0\refint\MyClass.dll
+C:\Users\Legion\Desktop\oop_lab6-master\MyClass\obj\Debug\net6.0\MyClass.pdb
+C:\Users\Legion\Desktop\oop_lab6-master\MyClass\obj\Debug\net6.0\MyClass.genruntimeconfig.cache
+C:\Users\Legion\Desktop\oop_lab6-master\MyClass\obj\Debug\net6.0\ref\MyClass.dll
